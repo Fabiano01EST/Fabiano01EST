@@ -1,4 +1,4 @@
-### Olá, um estatítsico a sua disposição
+### Olá, um estatítsico a sua disposição 🙋🏻‍♂️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-florentino-dos-santos-197a82207/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fabiano.santos@aluno.uepb.edu.br)
